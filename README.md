@@ -1,3 +1,5 @@
+<img src="Screenshots/SS-ARTreasureHunt.png">
+
 # 🎄AR Treasure Hunt 🎄🎅🏻🎁
 
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
@@ -40,7 +42,7 @@ There are Christmas themed items placed in the real world. Your task is to find 
 
 |                                                                   Game Play                                                                   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------: |
-| <video src="https://github.com/SimformSolutionsPvtLtd/SS-ARTreasureHunt/assets/125339267/44a1f199-1844-4327-a1a3-356afafac2aa" width=260px /> |
+| <video src="https://github.com/SimformSolutionsPvtLtd/SS-ARTreasureHunt/assets/125339267/d792986c-dfe3-43b9-aad1-1b1fbe02d81b" width=260px /> |
 
 ## How does it works? 🧐
 
@@ -111,13 +113,16 @@ Check out our [Contributing Guide] for ideas on contributing.
 
 For bugs, feature requests and discussion use [GitHub Issues].
 
-## Credits
+## Awesome Mobile Libraries 📱
+- Check out our other available [awesome mobile libraries][Awesome Mobile Libraries]
+
+## Credits 🧩
 
 * Thanks [Takashi Yoshinaga] for this awesome starter project [GeospatialAPI-Unity-StarterKit]
 * [Youtube video][Google AR & VR Geospatial Creator Video] by Google AR & VR team explaining Geospatial Creator API was very helpful 
 * Also thanks to amazing [Unity community] for providing lots of useful resources
 
-## License
+## License 🔑
 
 ```
 MIT License
@@ -168,3 +173,4 @@ SOFTWARE.
 [Inspector Window]: https://docs.unity3d.com/Manual/UsingTheInspector.html
 [Github Issues]: https://github.com/SimformSolutionsPvtLtd/SS-ARTreasureHunt/issues
 [Contributing Guide]: CONTRIBUTING.md
+[Awesome Mobile Libraries]: https://github.com/SimformSolutionsPvtLtd/Awesome-Mobile-Libraries
